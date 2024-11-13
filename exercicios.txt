@@ -1,0 +1,21 @@
+Lista de Exercício
+_________________
+1. Crie uma aplicação em PHP que Leia Altura, peso e sexo e calcule o peso ideal. Sabendo que a formula para o calculo do peso ideal é:
+Homens: (altura * 72,7) - 58
+Mulheres: (altura * 62,1) - 44,7
+Ao final informe o peso ideal e informe se o a pessoa esta acima do peso, abaixo do peso ou no peso ideal.
+
+2. Crie uma aplicação em php que leia o nome e o salário de um funcionário e calcule o valor do reajuste anual, levando em consideração a seguinte informação: 
+Para salarios até R$ 2500,00 o reajuste será de 15%, os demais salários serão reajustado em 10% apenas.
+
+3. Crie uma aplicação em PHP que leia 2 textos e realize a verificação se os textos digitados são iguais ou não.
+
+4. Crie uma aplicação em PHP que leia um número qualquer e informe se ele é par ou impar.
+
+5. Crie uma aplicação em PHP que leia nome do aluno, 4 notas e disciplina. Calcule a média do aluno e informe se ele esta aprovado, reprovado ou em recuperação, sendo médias menores de 5 esta reprovado, medias entre 5 e 7 o aluno esta em recuperação e médias maior ou igual a 7 o aluno esta aprovado. 
+
+6. Crie uma aplicação que controle a quantidade de peixes em quilos, pescado por um pescador, em um determinado pesqueiro. O Sistema deverá verificar se houve excesso na pesca e aplicar multa quando houver excesso. 
+O sistema deverá ler o nome do pescador e a quantidade de peixes. Sabendo que a quantidade permitida para cada pesca é de 50kg por pesca	dor. a quantidade excedida deverá ser multada em R$ 4,00 por quilo excedido.
+
+
+
